@@ -1,4 +1,4 @@
-# Responsive "NETFLIX--CLONE" just using HTML & CSS!
+# Responsive "NETFLIX--CLONE" just using HTML & CSS!🎬
 
 This is a static Netflix clone created using HTML and CSS to replicate the look and feel of the Netflix homepage.
 
